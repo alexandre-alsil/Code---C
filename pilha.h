@@ -1,6 +1,4 @@
-/*
-    Integrantes: Alex Silva, Alexandre Alves, Lucas Freita, Victor Abreu
-*/
+
 
 // declaração do tipo de estrutura da pilha
 struct pilha{
